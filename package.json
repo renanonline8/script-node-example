@@ -1,0 +1,15 @@
+{
+  "name": "script_bd_operation",
+  "version": "1.0.0",
+  "description": "Script for execute action in a db",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Santos Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "log-to-file": "^2.0.1",
+    "mysql": "^2.17.1"
+  }
+}
